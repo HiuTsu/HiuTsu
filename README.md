@@ -11,6 +11,7 @@ and system analysis and development.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwMBbCKKFKLLBzfPswNHdjdXWfTGnGRVHzsFmKBDwXlDdnxbqxgtGLhxKwMPXRJTsfrFg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-alcântara-pereira-5220b4182/)
 - ---------------------------------------------------
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 - Technologies I use
 
 <div style="display: inline_block">
@@ -22,17 +23,7 @@ and system analysis and development.
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-   <picture>
-     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true&theme=merko"
-      media="(prefers-color-scheme: dark)"
-       <img height= 155 align="center" src="https://github-readme-stats.vercel.app/api?username=HiuTsu" />
-  />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true&theme=merka"
-      media="(prefers-color-scheme: merka), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true&theme=merka" />
+
   </picture>
     <picture>
     <source
@@ -44,6 +35,6 @@ and system analysis and development.
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true" />
-     <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=HiuTsu" />
+     <img height=350  src="https://github-readme-stats.vercel.app/api?username=HiuTsu" />
 
 
