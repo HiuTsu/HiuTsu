@@ -6,6 +6,11 @@
                                             - ⚡ Fun fact: I go to 2 colleges, computer science
                                             and system analysis and development.
                                             -----------------------------------------------------
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwMBbCKKFKLLBzfPswNHdjdXWfTGnGRVHzsFmKBDwXlDdnxbqxgtGLhxKwMPXRJTsfrFg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-alcântara-pereira-5220b4182/)
 - 
     <picture>
     <source
@@ -31,3 +36,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true" />
      <img height=350 align="center" src="https://github-readme-stats.vercel.app/api?username=HiuTsu" />
 
+[youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
