@@ -1,40 +1,46 @@
-------------------------------------------------
-- print("Hello world, my name is Brenno, I'm Brazilian
-and I dream of being a programmer👋").
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I go to 2 colleges, computer science
-and system analysis and development.
------------------------------------------------------
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9N345JaTFE5-VnhsQYKifg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brnn_mrtns/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/Hiutsu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwMBbCKKFKLLBzfPswNHdjdXWfTGnGRVHzsFmKBDwXlDdnxbqxgtGLhxKwMPXRJTsfrFg)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-alcântara-pereira-5220b4182/)
-- ---------------------------------------------------
-![HiuTs GitHub stats](https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true&theme=merko&count_private=true)
-- Technologies I use
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=header"/>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D3D3D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Brenno+Martins;I'm+20+years+old;I'm+from+Brazil;I+Graduated+computer+Science+and+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HiuTsu&bg_color=black&color=D3D3D3&line=D3D3D3&point=D3D3D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-  </picture>
-    <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HiuTsu&layout=compact&theme=merko&"
-      media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset=https://github-readme-stats.vercel.app/api/top-langs/?username=HiuTsu&layout=compact&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true" />
-     <img height=350  src="https://github-readme-stats.vercel.app/api?username=HiuTsu" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HiuTsu&theme=oldie&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HiuTsu&show_icons=true&count_private=true&hide_border=true&title_color=D3D3D3&icon_color=D3D3D3&text_color=c9d1d9&bg_color=0d1117" alt="Brenno Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiuTsu&layout=compact&hide_border=true&title_color=D3D3D3&text_color=D3D3D3&bg_color=0d1117" />
+</div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/brnn_mrtns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href=https://www.youtube.com/channel/UC9N345JaTFE5-VnhsQYKifg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRvwMBbCKKFKLLBzfPswNHdjdXWfTGnGRVHzsFmKBDwXlDdnxbqxgtGLhxKwMPXRJTsfrFg"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/brenno-alcântara-pereira-5220b4182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HiuTsu}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D3D3D3&height=120&section=footer"/>
